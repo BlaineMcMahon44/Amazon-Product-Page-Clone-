@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.ctn {
+    display: flex;
+    width: 700px;
+    padding: 10px;
+}
+
+.img-ctn {
+    box-shadow: 0px 2px 5px lightgray;
+    margin-right: 20px;
+}
+
+.cat {
+    height: 400px;
+    display: block;
+}
+
+.breadcrumb {
+    color: #565959;
+}
